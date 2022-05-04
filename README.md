@@ -1,1 +1,2 @@
 "# Smallest-Number" 
+"# prime" 
